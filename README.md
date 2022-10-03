@@ -1,11 +1,20 @@
-# iti_project
+# E-Newspaper
 
-A new Flutter project.
+A Flutter project for the 10 days course provided by ITI for MTI students.
 
-## Getting Started
+## Task Divisions
 
-This project is a starting point for a Flutter application.
+### Pages:
+- Headlines page
+- Favorites page
+- News page
+- About page
 
+### Model Class:
+- News model
+- About model (For about page)
+
+### 
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
